@@ -1,2 +1,2 @@
 # epikachu
-nothing good here, just some mcdoexample
+nothing good here, just some mcdo example
